@@ -70,6 +70,9 @@ https://xxxxxxx.com.ph/loader/syncResourcesNotify/users 返回用户名
 
 漏洞版本：3.1.1_m25
 
+![image](https://github.com/ranhn/Sunline/assets/107679328/a5810124-ca66-4005-9289-66f746900be1)
+
+
 修复建议：
 
 1、升级到最新版本。
