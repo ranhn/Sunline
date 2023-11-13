@@ -40,7 +40,7 @@ If-Modified-Since: 0
 
 Content-Length: 129
 
-Origin: https://xxxxxxx.ownbank.com.ph
+Origin: https://xxxxxxx.com.ph
 
 Sec-Fetch-Dest: empty
 
