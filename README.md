@@ -32,7 +32,7 @@ Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
 
 Accept-Encoding: gzip, deflate
 
-Referer: https://bk-assistant.ownbank.com.ph/
+Referer: https://xxxxxxx.com.ph/
 
 Content-Type: application/json
 
@@ -40,7 +40,7 @@ If-Modified-Since: 0
 
 Content-Length: 129
 
-Origin: https://bk-assistant.ownbank.com.ph
+Origin: https://xxxxxxx.ownbank.com.ph
 
 Sec-Fetch-Dest: empty
 
