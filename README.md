@@ -18,7 +18,9 @@ POST /loader/api/uiAuth/reset-password-sendmail HTTP/1.1
 
 Host: xxxxxx.com.ph
 
-Cookie: acw_tc=0bc1a14316933660392643949e455a577eede41c8a82de5b661a2f4841446e; JSESSIONID=D34E1ED55B1F03E9068D984A58F487D8
+Cookie: acw_tc=0bc1a14316933660392643949e455a577eede41c8a82de5b661a2f4841446e; 
+
+JSESSIONID=D34E1ED55B1F03E9068D984A58F487D8
 
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0
 
