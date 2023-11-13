@@ -1,6 +1,6 @@
 # sunline
 
-长亮sunline跑批平台接口存在fastjson命令执行漏洞
+长亮sunline跑批平台助手接口存在fastjson命令执行漏洞
 
 漏洞地址：
 
@@ -68,7 +68,7 @@ https://xxxxxxx.com.ph/loader/syncResourcesNotify/users 返回用户名
 
 ![image](https://github.com/ranhn/Sunline/assets/107679328/44cfc0a8-91cd-479a-aecc-1ed2b51d16e8)
 
-漏洞版本：版本未知（没有版本概念）
+漏洞版本：3.1.1_m25
 
 修复建议：
 
