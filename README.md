@@ -74,4 +74,4 @@ https://xxxxxxx.com.ph/loader/syncResourcesNotify/users 返回用户名
 
 1、升级到最新版本。
 
-2、接口敏感信文档做鉴权。
+2、接口敏感信息文档做鉴权。
