@@ -8,11 +8,12 @@ https://xxxxxxx/loader/api/uiAuth/login
 
 https://xxxxxxx/loader/api/uiAuth/reset-password-sendmail
          
-漏洞描述：长亮sunline跑批平台接口存在fastjson命令执行漏洞
+漏洞描述：长亮sunline跑批平台接口存在fastjson命令执行漏洞和接口文档暴露导致相关信息泄露。
 
 漏洞详情：
 
 1、接口存在fastjson命令执行漏洞
+用自己做的burpsuite插件扫描，再进行人工验证。
 
 ![image](https://github.com/ranhn/Sunline/assets/107679328/2a018bf1-faf5-4fef-84a0-e16bc44661d5)
 
